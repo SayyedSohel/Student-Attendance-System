@@ -1,0 +1,29 @@
+.col {
+  background-color: black;
+}
+
+.form-control {
+  margin-left: 10px;
+  width: 30%;
+  height: 30px;
+  border-radius: 6px;
+  margin-top: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+.btn-primary {
+  margin-top: 10px;
+  width: 10%;
+  height: 30px;
+  border-radius: 5px;
+}
+.btn:hover {
+  background-color: cadetblue;
+}
+.total {
+  color: white;
+}
+.container {
+  color: white;
+  height: 100vh;
+}
